@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "f7d0bbac9938e44e",
+    "type": "split",
+    "children": [
+      {
+        "id": "819ad2cc75c9a88c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d4eb1af59b5e6cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8e71a742c5163541",
+    "type": "split",
+    "children": [
+      {
+        "id": "09334ed17987a5be",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a3b704e964d96746",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "273e0edbb1149a3f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c2cc7a41ae9f0425",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ec6a6cd48f2280e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b7acc9911679e00",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d9695e2472597ab",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e766f60b3b090bdc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "61e794a194c6506a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5cd001bae9a9ff58",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "1d4eb1af59b5e6cc",
+  "lastOpenFiles": [
+    "欢迎💕.md",
+    "README.md",
+    "项目/毕业设计/进度控制.canvas",
+    "项目/毕业设计/开题报告.md",
+    "项目/毕业设计/一种基于单片机的温湿度监控系统.md",
+    "项目/毕业设计/进度控制/2023-04-25.md",
+    "项目/毕业设计/进度控制/2023-04-07.md",
+    "每日笔记/2023-04-07.md",
+    "每日笔记/2023-04-08.md",
+    "每日笔记/模板.md",
+    "每日笔记/2023-04-09.md",
+    "Test/view.css",
+    "Test/view.js",
+    "Test",
+    "项目/毕业设计/进度控制",
+    "项目/毕业设计",
+    "项目",
+    "DailyNotes/Untitled",
+    "2023-04-08.md",
+    "每日笔记"
+  ]
+}
