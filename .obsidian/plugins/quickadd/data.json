@@ -34,6 +34,41 @@
       },
       "openFile": false,
       "openFileInMode": "default"
+    },
+    {
+      "id": "34a59db7-d658-44ba-b6dc-ae1d1b72f7e1",
+      "name": "添加当日日志",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "每日笔记/{{date}}",
+      "captureToActiveFile": false,
+      "createFileIfItDoesntExist": {
+        "enabled": true,
+        "createWithTemplate": false,
+        "template": ""
+      },
+      "format": {
+        "enabled": false,
+        "format": ""
+      },
+      "insertAfter": {
+        "enabled": true,
+        "after": "## 日志",
+        "insertAtEnd": true,
+        "considerSubsections": false,
+        "createIfNotFound": true,
+        "createIfNotFoundLocation": "bottom"
+      },
+      "prepend": false,
+      "task": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default"
     }
   ],
   "macros": [],
